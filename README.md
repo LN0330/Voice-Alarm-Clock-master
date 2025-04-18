@@ -1,8 +1,11 @@
-# Voice-Alarm-Clock / 語音鬧鐘   
-Python版本：3.7  
+# Voice-Alarm-Clock / 語音鬧鐘    
+### 在睡前休息時也能使用語音設定明日鬧鐘及透過音訊或UI介面了解天氣狀況  
 ---
-實作：語音辨識 + 網頁爬蟲 + 資料庫  + 使用者介面設計  
-用途：在關燈上床休息時也能使用語音設定明日鬧鐘及了解上午天氣狀況
+- Demo重點: 語音辨識 + 網頁爬蟲 + 資料庫 + UI設計  
+---
+- 撰寫語言: Python 3.7、SQLite 3   
+- 爬蟲套件: Selenium + ChromeDriver  
+- 開發環境: Visual Studio Code  
 ---
 介紹：  
 ![image](https://github.com/leon8731/Voice-Alarm-Clock-master/blob/main/%E7%A4%BA%E6%84%8F%E5%9C%96/1%20(1).jpg)  
