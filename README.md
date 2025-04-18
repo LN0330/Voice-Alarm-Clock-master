@@ -1,7 +1,7 @@
 # Voice-Alarm-Clock / 語音鬧鐘    
 ### 在睡前休息時也能使用語音設定明日鬧鐘及透過音訊或UI介面了解天氣狀況  
 ---
-- Demo重點: 語音辨識 + 網頁爬蟲 + 資料庫 + UI設計  
+- Demo重點: Selenium爬蟲 + 語音辨識 + 資料庫 + UI設計  
 ---
 - 撰寫語言: Python 3.7、SQLite 3   
 - 爬蟲套件: Selenium + ChromeDriver  
